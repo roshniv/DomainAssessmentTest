@@ -1,6 +1,5 @@
 import React from 'react';
 import { Input, Button } from 'react-bootstrap/lib';
-import Common from '../../utils/Common';
 import HCard from './HCard';
 
 export default class Form extends React.Component {
