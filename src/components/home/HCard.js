@@ -1,5 +1,4 @@
 import React from 'react';
-import Common from '../../utils/Common';
 
 export default class HCard extends React.Component {
 
